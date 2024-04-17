@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DCC-EX-symbols")(type "KiCad")(uri "${KIPRJMOD}/library/DCC-EX-symbols.kicad_sym")(options "")(descr ""))
+)
